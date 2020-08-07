@@ -1,6 +1,9 @@
 body{
     display: flex;
     text-align:center;
+    border-style: solid;
+    border-width: thin;
+
   
   }
   
@@ -43,8 +46,9 @@ body{
     font-size:inherit;
     display: contents;
     align-items: flex-end;
-    line-height: 10px;
-flex-wrap: wrap;
+    text-align: center;
+
+    
   }
 
   #tribute-link{
